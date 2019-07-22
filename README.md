@@ -4,7 +4,9 @@ This repo aims at providing reusable Keras Models, which could easily integrated
 
 ## Install
 
-to be done
+```shell
+pip install keras-models
+```
 
 ## Usage Guide
 
@@ -16,5 +18,5 @@ to be done
 
 ## Contribution
 
-to be done
+Please submit PR if you want to contribute, or submit issues for new model requirements.
 
