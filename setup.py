@@ -9,8 +9,8 @@ def read_file(filename, cb):
 
 
 setup(
-    name='Keras-Models',
-    version='0.0.1',
+    name='keras-models',
+    version='0.0.2',
 
     packages=find_packages(),
     url='https://github.com/Marcnuth/Keras-Models',
