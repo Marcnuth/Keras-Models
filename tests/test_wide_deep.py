@@ -1,4 +1,4 @@
-from kerasmodels.models import DNN
+from kerasmodels.models import WideDeepModel
 from keras.optimizers import Adadelta, SGD
 from keras.losses import mean_squared_error
 import numpy as np
@@ -9,10 +9,10 @@ def test_linear():
     w = np.random.normal(0, 1.0, size=10)
     Y = np.dot(X, w) + np.random.randint(1)
 
-    model = DNN(input_shape=X.shape[1:], output_shape=1, output_activation=None, dtype=float, r_drop=0.5, dense_layers=[512, 128])
-    model.compile(optimizer='adam', loss=mean_squared_error, metrics=['mae', 'mse'])
+    model = WideDeepModel(input_shape=X.shape[1:], output_shape=1, dtype=float)
+    model.compile(optimizer=SGD(), loss=mean_squared_error, metrics=['mae', 'mse'])
     model.summary()
 
-    model.fit(X, Y, batch_size=16, epochs=100, validation_split=0.1)
+    model.fit(X, Y, batch_size=16, epochs=10, validation_split=0.1)
 
     print(X.shape, w.shape, Y.shape)

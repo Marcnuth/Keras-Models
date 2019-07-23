@@ -8,7 +8,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 
-def build(input_shape, output_shape, dtype, output_activation="softmax", dense_layers=[1024, 512], r_drop=0.5, name="wide_deep"):
+def build(input_shape, output_shape, dtype, output_activation="softmax", dense_layers=[1024, 512], r_drop=0.5, name="DNN"):
     assert len(dense_layers) >= 1, 'dense layers should not be empty!'
 
     x = Input(shape=input_shape, dtype=dtype, name="deep_input")
@@ -19,7 +19,7 @@ def build(input_shape, output_shape, dtype, output_activation="softmax", dense_l
         h = Dropout(r_drop, name=f"deep_dropout_{i}")(h)
 
     y = Dense(output_shape, activation=output_activation, name="deep_output")(h)
-    return Model(x, y)
+    return Model(x, y, name=name)
     
 
 
