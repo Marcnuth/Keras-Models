@@ -1,0 +1,1006 @@
+Randy Pausch’s Last Lecture: Really Achieving Your Childhood Dreams
+Given at Carnegie Mellon University
+Tuesday, September 18, 2007
+McConomy Auditorium
+For more information, see www.randypausch.com
+© Copyright Randy Pausch, 20071
+Note that this transcript is provided as a public service but may contain transcription errors.
+Introduction by Indira Nair, Carnegie Mellon’s Vice Provost for Education:
+Hi. Welcome. It’s my pleasure to introduce you to the first of our new university’s lectures titled
+Journeys – lectures in which members of our community will share with us reflections and insights
+on their personal and professional journeys. Today’s Journey’s lecture as you all know is by
+Professor Randy Pausch. The next one is on Monday, September 24th by Professor Roberta Klatzky.
+To introduce Professor Randy Pausch, our first Journeys speaker, I would like to introduce Randy’s
+friend and colleague, Steve Seabolt. Steve has been at Electronic Arts for six years and is the Vice
+President of Global Brand Development for The Sims label at Electronic Arts. As you all know, The
+Sims is one of the most, if not the most successful PC games in the world, with sales approaching
+over $100,000,000. Prior to that, Steve was the Vice President for Strategic Marketing and
+Education at EA, bridging academia and Electronic Arts. His goal was to work with academics so
+there was an effective educational pathway for kids with building games as their dreams. It was in
+that role that Randy and Steve became colleagues and friends. Before Electronic Arts, Steve was the
+worldwide Ad Director for Time Magazine and CEO of Sunset Publishing, which is a very favorite
+magazine in the Southwest, and as CEO there, one of the things he started was school tours,
+because like Randy he shares a passion for inspiring kids of all ages to share their excitement for
+science and technology.
+So to introduce Randy, his friend Steve Seabolt. Steve?
+[applause]
+Steve Seabolt, Vice President of Worldwide Publishing and Marketing for Electonic Arts (EA):
+Thank you very much. I don’t mean to sound ungracious by correcting you, but given that our PR
+people are probably watching this on webcast, I’d catch heck if I went home and didn’t say that it
+
+1
+ This is temporary; we will be doing a creative commons license or some such; for now, please consider this
+footnote your permission to use this transcript for any personal or non-commercial purposes. -- Randy
+P a u s c h P a g e | 2
+was 100 million units for The Sims. [laughter] Not that big numbers matter to Electronic Arts.
+[laughter]
+I don’t see any empty seats anywhere, which is a good thing, which means I just won a bet from
+Randy as a matter of fact. Depending upon who’s version of the story you hear, he either owes me
+20 dollars or his new Volkswagen. [laughter] So, I’ll take the car.
+It’s a pleasure to be here, thank you very much. I’m going to start by covering Randy’s academic
+credentials. It’s a little bizarre for me to be standing here at Carnegie Mellon, which is a school I
+couldn’t get into no matter how much I contributed to this institution. [laughter] But, no really, I’m
+not kidding! You all think, oh gosh he’s humble. Really, no, I’m not humble at all. Very average SAT
+scores, you know, right in the middle of my high school class of 900. Anyway, Randy. Randy earned
+– it really pisses me off that Randy’s so smart—actually I called him, we decided about, what, four
+weeks, ago and we heard the news went from bad to horrific. It was on a Wednesday night and I
+said look – we have two choices. We can play this really straight and very emotional , or we can go
+to dark humor. And for those of you who know Randy well, he was like oh, dark humor! So I called
+him the next day and I was like, dude you can’t die. And he’s like, what do you mean? And I said,
+well, when you die, the average of IQ of Seabolt’s friends is going to like drop 50 points. [laughter] To
+which he responded, we need to find you some smarter friends. [laughter] So you’re all smart
+because you’re here, so if you want to be my friend, I’ll be over in a corner of the reception room.
+Randy earned his undergraduate degree in Computer Science at Brown in 1982. His Ph.D. in CS from
+Carnegie Mellon in 1988 and taught at the University of Virginia where he was granted tenure a year
+early. He joined the Carnegie Mellon faculty in 1997 with appointments in the CS, HCI and Design
+departments. He has authored or co-authored five books and over 60 reviewed journal and
+conference proceeding articles, none of which I would understand. With Don Marinelli, he founded
+the Entertainment Technology Center, which quickly became the gold standard organization for
+training artists and engineers to work together. It is my view and the view of our company,
+Electronic Arts, that the ETC is the interactive program by which all others in the world are judged.
+I met Randy in the Spring of 2004, and when I look back it’s sort of hard to imagine it’s only been
+three years given the depth of our friendship. The ETC already had a very strong relationship with
+EA and with Randy. And Randy as he always does, for those of you who know him well, wanted to
+learn more, with his own eyes, about how the games business works, and how games really got
+made. So he spent a summer in residence at EA, and I was his primary contact point. We were in
+my view the odd couple. Randy the brilliant, charming, Carnegie educated CS professor. And me
+who went to the University of Iowa on a wing and a prayer. We spent a lot of time together that
+semester and for those of you who know Randy well, that’s a lot of turkey sandwiches on white
+bread with mayo. [laughter, clapping] My kids tease me about being “white.” There’s nobody more
+“white” than Randy. [laughter] We spent an enormous amount of time together. We taught each
+other about each other’s very interesting, strange cultures to the other. Academic versus the
+corporate world. And we developed a deep friendship woven together with stories about our kids,
+our wives, our parents, as well as deep discussions about the paramount nature of integrity in 
+P a u s c h P a g e | 3
+everything you do, family first, religion, our shared joy in connecting people and ideas, and
+deploying money and influence to do good. And the importance of having a lot of laughs along the
+way.
+Randy’s dedication to making the world a better place is self evident to anyone who has crossed
+paths with him. Whether it’s directly influencing students, creating organizations like the ETC,
+building tools like Alice or doing what he probably does best, which is bridging cultures. As Ben
+Gordon, EA’s Chief Creative Officer, says of Randy, even more important than Randy’s academic,
+philanthropic, and entrepreneurial accomplishments has been his humanity and the enthusiasm he
+brings to students and coworkers on a daily basis.
+For those of you who know Randy, Randy brings a particular zest for life and humor, even while
+facing death. To Randy, this is simply another adventure. It is my great honor to introduce Dylan,
+Logan and Chloe’s dad, Jai’s husband, and my very dear friend, Dr. Randy Pausch. [applause]
+Randy Pausch:
+[responding to a standing ovation] Make me earn it. [laughter]
+It’s wonderful to be here. What Indira didn’t tell you is that this lecture series used to be called the
+Last Lecture. If you had one last lecture to give before you died, what would it be? I thought, damn,
+I finally nailed the venue and they renamed it. [laughter]
+So, you know, in case there’s anybody who wandered in and doesn’t know the back story, my dad
+always taught me that when there’s an elephant in the room, introduce them. If you look at my CAT
+scans, there are approximately 10 tumors in my liver, and the doctors told me 3-6 months of good
+health left. That was a month ago, so you can do the math. I have some of the best doctors in the
+world. Microphone’s not working? Then I’ll just have to talk louder. [Adjusts mic] Is that good? All
+right. So that is what it is. We can’t change it, and we just have to decide how we’re going to
+respond to that. We cannot change the cards we are dealt, just how we play the hand. If I don’t
+seem as depressed or morose as I should be, sorry to disappoint you. [laughter] And I assure you I
+am not in denial. It’s not like I’m not aware of what’s going on. My family, my three kids, my wife,
+we just decamped. We bought a lovely house in Virginia, and we’re doing that because that’s a
+better place for the family to be, down the road. And the other thing is I am in phenomenally good
+health right now. I mean it’s the greatest thing of cognitive dissonance you will ever see is the fact
+that I am in really good shape. In fact, I am in better shape than most of you. [Randy gets on the
+ground and starts doing pushups] [Applause] So anybody who wants to cry or pity me can down and
+do a few of those, and then you may pity me. [laughter]
+All right, so what we’re not talking about today, we are not talking about cancer, because I spent a
+lot of time talking about that and I’m really not interested. If you have any herbal supplements or
+remedies, please stay away from me. [laughter] And we’re not going to talk about things that are
+even more important than achieving your childhood dreams. We’re not going to talk about my wife,
+we’re not talking about my kids. Because I’m good, but I’m not good enough to talk about that 
+P a u s c h P a g e | 4
+without tearing up. So, we’re just going to take that off the table. That’s much more important.
+And we’re not going to talk about spirituality and religion, although I will tell you that I have
+achieved a deathbed conversion. [dramatic pause] … I just bought a Macintosh. [laughter and
+clapping] Now I knew I’d get 9% of the audience with that … All right, so what is today’s talk about
+then? It’s about my childhood dreams and how I have achieved them. I’ve been very fortunate that
+way. How I believe I’ve been able to enable the dreams of others, and to some degree, lessons
+learned. I’m a professor, there should be some lessons learned and how you can use the stuff you
+hear today to achieve your dreams or enable the dreams of others. And as you get older, you may
+find that “enabling the dreams of others” thing is even more fun.
+So what were my childhood dreams? Well, you know, I had a really good childhood. I mean, no
+kidding around. I was going back through the family archives, and what was really amazing was, I
+couldn’t find any pictures of me as a kid where I wasn’t smiling. And that was just a very gratifying
+thing. There was our dog, right? Aww, thank you. And there I actually have a picture of me
+dreaming. I did a lot of that. You know, there’s a lot of wake up’s! I was born in 1960. When you
+are 8 or 9 years old and you look at the TV set, men are landing on the moon, anything’s possible.
+And that’s something we should not lose sight of, is that the inspiration and the permission to
+dream is huge.
+So what were my childhood dreams? You may not agree with this list, but I was there. [laughter]
+Being in zero gravity, playing in the National Football League, authoring an article in the World Book
+Encyclopedia – I guess you can tell the nerds early. [laughter] Being Captain Kirk, anybody here have
+that childhood dream? Not at CMU, nooooo. I wanted to become one of the guys who won the big
+stuffed animals in the amusement park, and I wanted to be an Imagineer with Disney. These are not
+sorted in any particular order, although I think they do get harder, except for maybe the first one.
+OK, so being in zero gravity. Now it’s important to have specific dreams. I did not dream of being an
+astronaut, because when I was a little kid, I wore glasses and they told me oh, astronauts can’t have
+glasses. And I was like, mmm, I didn’t really want the whole astronaut gig, I just wanted the floating.
+So, and as a child [laughter], prototype 0.0. [slide shown of Randy as a child lying in floatingformation on a table top] But that didn’t work so well, and it turns out that NASA has something
+called the Vomit Comet that they used to train the astronauts. And this thing does parabolic arcs,
+and at the top of each arc you get about 25 seconds where you’re ballistic and you get about, a
+rough equivalent of weightlessness for about 25 seconds. And there is a program where college
+students can submit proposals and if they win the competition, they get to fly. And I thought that
+was really cool, and we had a team and we put a team together and they won and they got to fly.
+And I was all excited because I was going to go with them. And then I hit the first brick wall, because
+they made it very clear that under no circumstances were faculty members allowed to fly with the
+teams. I know, I was heartbroken. I was like, I worked so hard! And so I read the literature very
+carefully and it turns out that NASA, it’s part of their outreach and publicity program, and it turns
+out that the students were allowed to bring a local media journalist from their home town.
+[laughter] And, [deep voice] Randy Pausch, web journalist. [regular voice] It’s really easy to get a
+press pass! [laughter] So I called up the guys at NASA and I said, I need to know where to fax some 
+P a u s c h P a g e | 5
+documents. And they said, what documents are you going to fax us? And I said my resignation as
+the faculty advisor and my application as the journalist. And he said, that’s a little transparent, don’t
+you think? And I said, yeah, but our project is virtual reality, and we’re going to bring down a whole
+bunch of VR headsets and all the students from all the teams are going to experience it and all those
+other real journalists are going to get to film it. Jim Foley’s [who is nodding in the audience] going
+oh you bastard, yes. And the guy said, here’s the fax number. So, indeed, we kept our end of the
+bargain, and that’s one of the themes that you’ll hear later on in the talk, is have something to bring
+to the table, right, because that will make you more welcome. And if you’re curious about what
+zero gravity looks like, hopefully the sound will be working here. [slide shows videotape from
+Randy’s zero gravity experience] There I am. [laughter] You do pay the piper at the bottom. [laugher,
+as the people in the video crash to the floor of the plane on the video] So, childhood dream number
+one, check.
+OK, let’s talk about football. My dream was to play in the National Football League. And most of
+you don’t know that I actually – no. [laughter] No, I did not make it to the National Football League,
+but I probably got more from that dream and not accomplishing it than I got from any of the ones
+that I did accomplish. I had a coach, I signed up when I was nine years old. I was the smallest kid in
+the league, by far. And I had a coach, Jim Graham, who was six-foot-four, he had played linebacker
+at Penn State. He was just this hulk of a guy and he was old school. And I mean really old school.
+Like he thought the forward pass was a trick play. [laughter] And he showed up for practice the first
+day, and you know, there’s big hulking guy, we were all scared to death of him. And he hadn’t
+brought any footballs. How are we going to have practice without any footballs? And one of the
+other kids said, excuse me coach, but there’s no football. And Coach Graham said, right, how many
+men are on a football field at a time? Eleven on a team, twenty-two. Coach Graham said, all right,
+and how many people are touching the football at any given time? One of them. And he said, right,
+so we’re going to work on what those other twenty-one guys are doing. And that’s a really good
+story because it’s all about fundamentals. Fundamentals, fundamentals, fundamentals. You’ve got
+to get the fundamentals down because otherwise the fancy stuff isn’t going to work. And the other
+Jim Graham story I have is there was one practice where he just rode me all practice. You’re doing
+this wrong, you’re doing this wrong, go back and do it again, you owe me, you’re doing push-ups
+after practice. And when it was all over, one of the other assistant coaches came over and said,
+yeah, Coach Graham rode you pretty hard, didn’t he? I said, yeah. He said, that’s a good thing. He
+said, when you’re screwing up and nobody’s saying anything to you anymore, that means they gave
+up. And that’s a lesson that stuck with me my whole life. Is that when you see yourself doing
+something badly and nobody’s bothering to tell you anymore, that’s a very bad place to be. Your
+critics are your ones telling you they still love you and care.
+After Coach Graham, I had another coach, Coach Setliff, and he taught me a lot about the power of
+enthusiasm. He did this one thing where only for one play at a time he would put people in at like
+the most horrifically wrong position for them. Like all the short guys would become receivers, right?
+It was just laughable. But we only went in for one play, right? And boy, the other team just never
+knew what hit ‘em them. Because when you’re only doing it for one play and you’re just not where 
+P a u s c h P a g e | 6
+you’re supposed to be, and freedom’s just another word for nothing left to lose, boy are you going
+to clean somebody’s clock for that one play. And that kind of enthusiasm was great. And to this
+day, I am most comfortable on a football field. I mean, it’s just one of those things where, you
+know, [pulls out a football] if I’m working a hard problem, people will see me wandering the halls
+with one of these things, and that’s just because, you know, when you do something young enough
+and you train for it, it just becomes a part of you. And I’m very glad that football was a part of my
+life. And if I didn’t get the dream of playing in the NFL, that’s OK. I’ve probably got stuff more
+valuable. Because looking at what’s going on in the NFL, I’m not sure those guys are doing so great
+right now.
+OK, and so one of the expressions I learned at Electronic Arts, which I love, which pertains to this, is
+experience is what you get when you didn’t get what you wanted. And I think that’s absolutely
+lovely. And the other thing about football is we send our kids out to play football or soccer or
+swimming or whatever it is, and it’s the first example of what I’m going to call a head fake, or
+indirect learning. We actually don’t want our kids to learn football. I mean, yeah, it’s really nice that
+I have a wonderful three-point stance and that I know how to do a chop block and all this kind of
+stuff. But we send our kids out to learn much more important things. Teamwork, sportsmanship,
+perseverance, etcetera, etcetera. And these kinds of head fake learning are absolutely important.
+And you should keep your eye out for them because they’re everywhere.
+All right. A simple one, being an author in the World Book Encyclopedia. When I was a kid, we had
+the World Book Encyclopedia on the shelf. For the freshman, this is paper. … We used to have these
+things called books. [laughter] And after I had become somewhat of an authority on virtual reality,
+but not like a really important one, so I was at the level of people the World Book would badger.
+They called me up and I wrote an article, and this is Caitlin Kelleher [shows slide of Caitlin wearing
+virtual reality headset manipulating a 3D world], and there’s an article if you go to your local library
+where they still have copies of the World Book. Look under V for Virtual Reality, and there it is. And
+all I have to say is that having been selected to be an author in the World Book Encyclopedia, I now
+believe that Wikipedia is a perfectly fine source for your information because I know what the
+quality control is for real encyclopedias. They let me in.
+All right, next one. [laughter] [shows slide “Being like Meeting Captain Kirk”] At a certain point you
+just realize there are some things you are not going to do, so maybe you just want to stand close to
+the people. And I mean, my god, what a role model for young people. [laughter] [shows slide of
+Captain Kirk sitting at his control station on the Starship Enterprise] I mean, this is everything you
+want to be, and what I learned that carried me forward in leadership later is that, you know, he
+wasn’t the smartest guy on the ship. I mean, Spock was pretty smart and McCoy was the doctor and
+Scotty was the engineer. And you sort of go, and what skill set did he have to get on this damn thing
+and run it? And, you know, clearly there is this skill set called leadership, and, you know, whether or
+not you like the series, there’s no doubt that there was a lot to be learned about how to lead people
+by watching this guy in action. And he just had the coolest damn toys! [laughter] [shows slide of
+Star Trek gadgets] I mean, my god, I just thought it was fascinating as a kid that he had this thing
+[Takes out Star Trek Communicator] and he could talk to the ship with it. I just thought that was just 
+P a u s c h P a g e | 7
+spectacular, and of course now I own one and it’s smaller. [takes out cell phone] So that’s kind of
+cool.
+So I got to achieve this dream. James T. Kirk, and his alter ego William Shatner, wrote a book, which
+I think was actually a pretty cool book. It was with Chip Walter who is a Pittsburgh- based author
+who is quite good, and they wrote a book on basically the science of Star Trek, you know, what has
+come true. And they went around to the top places around the country and looked at various things
+and they came here to study our virtual reality setup. And so we build a virtual reality for him, it
+looks something like that. [shows slide of virtual Star Trek bridge from the 1960’s TV show] We put it
+in, put it to red alert. He was a very good sport. [sarcastically] It’s not like he saw that one coming.
+[laughter] And it’s really cool to meet your boyhood idol, but it’s even cooler when he comes to you
+to see what cool stuff you’re doing in your lab. And that was just a great moment.
+All right, winning stuffed animals. This may seem mundane to you, but when you’re a little kid and
+you see the big buff guys walking around the amusement park and they’ve got all these big stuffed
+animals, right? And this is my lovely wife, and I have a lot of pictures of stuffed animals I’ve won.
+[laughter] [shows slides of several large stuffed animals] That’s my dad posing with one that I won.
+I’ve won a lot of these animals. There’s my dad, he did win that one, to his credit. And this was just
+a big part of my life and my family’s life. But you know, I can hear the cynics. In this age of digitally
+manipulated images, maybe those bears really aren’t in the pictures with me, or maybe I paid
+somebody five bucks to take a picture in the theme park next to the bear. And I said, how, in this
+age of cynicism can I convince people? And I said, I know, I can show them the bears! Bring them
+out. [several large stuffed animals are brought onto the stage] [laughter and clapping] Just put them
+back against the wall.
+Jai Pausch (Randy’s wife):
+It’s hard to hear you. [adjusts Randy’s microphone]
+Randy Pausch:
+Thanks honey. [laughter] So here are some bears. We didn’t have quite enough room in the moving
+truck, and anybody who would like a little piece of me at the end of this, feel free to come up and
+take a bear, first come, first served.
+All right, my next one. Being an Imagineer. This was the hard one. Believe me, getting to zero
+gravity is easier than becoming an Imagineer. When I was a kid, I was eight years old and our family
+took a trip cross-country to see Disneyland. And if you’ve ever seen the movie National Lampoon’s
+Vacation, it was a lot like that! [laughter] It was a quest. [shows slides of family at Disneyland] And
+these are real vintage photographs, and there I am in front of the castle. And there I am, and for
+those of you who are into foreshadowing, this is the Alice ride. [laughter] And I just thought this was
+just the coolest environment I had ever been in, and instead of saying, gee, I want to experience this,
+I said, I want to make stuff like this. And so I bided my time and then I graduated with my Ph.D.
+from Carnegie Mellon, thinking that meant me infinitely qualified to do anything. And I dashed off 
+P a u s c h P a g e | 8
+my letters of applications to Walt Disney Imagineering, and they sent me some of the damned nicest
+go-to-hell letters I have ever gotten. [laughter] I mean it was just, we have carefully reviewed your
+application and presently we do not have any positions available which require your particular
+qualifications. Now think about the fact that you’re getting this from a place that’s famous for guys
+who sweep the street. [laughter] So that was a bit of a setback. But remember, the brick walls are
+there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us
+a chance to show how badly we want something. Because the brick walls are there to stop the
+people who don’t want it badly enough. They’re there to stop the other people.
+All right, fast forward to 1991. We did a system back at the University of Virginia called Virtual
+Reality on Five Dollars a Day. Just one of those unbelievable spectacular things. I was so scared
+back in those days as a junior academic. Jim Foley’s here, and I just love to tell this story. He knew
+my undergraduate advisor, Andy Van Dam, and I’m at my first conference and I’m just scared to
+death. And this icon in the user interface community walks up to me and just out of nowhere just
+gives me this huge bear hug and he says, that was from Andy. And that was when I thought, ok,
+maybe I can make it. Maybe I do belong. And a similar story is that this was just this unbelievable
+hit because at the time, everybody needed a half a million [dollars] to do virtual reality. And
+everybody felt frustrated. And we literally hacked together a system for about five thousand dollars
+in parts and made a working VR system. And people were just like, oh my god, you know, the
+Hewlett Packard garage thing. This is so awesome. And so I’m giving this talk and the room has just
+gone wild, and during the Q and A, a guy named Tom Furness, who was one of the big names in
+virtual reality at the time, he goes up to the microphone and he introduces himself. I didn’t know
+what he looked like but I sure as hell knew the name. And he asked a question. And I was like, I’m
+sorry did you say you were Tom Furness? And he said yes. I said, then I would love to answer your
+question, but first, will you have lunch with me tomorrow? [laughter] And there’s a lot in that little
+moment, there’s a lot of humility but also asking a person where he can’t possibly say no. [laughter]
+And so Imagineering a couple of years later was working on a virtual reality project. This was top
+secret. They were denying the existence of a virtual reality attraction after the time that the
+publicity department was running the TV commercials. So Imagineering really had nailed this one
+tight. And it was the Aladdin attraction where you would fly a magic carpet, and the head mounted
+display, sometimes known as gator vision. And so I had an in. As soon as the project had just, you
+know they start running the TV commercials, and I had been asked to brief the Secretary of Defense
+on the state of virtual reality. OK, Fred Brooks and I had been asked to brief the Secretary of
+Defense, and that gave me an excuse. So I called them. I called Imagineering and I said, look, I’m
+briefing the Secretary of Defense. I’d like some materials on what you have because it’s one of the
+best VR systems in the world. And they kind of pushed back. And I said, look, is all this patriotism
+stuff in the parks a farce? And they’re like, hmm, ok. [laughter] But they said this is so new the PR
+department doesn’t have any footage for you, so I’m going to have to connect you straight through
+to the team who did the work. Jackpot! So I find myself on the phone with a guy named Jon Snoddy
+who is one of the most impressive guys I have ever met, and he was the guy running this team, and
+it’s not surprising they had done impressive things. And so he sent me some stuff, we talked briefly
+and he sent me some stuff, and I said, hey, I’m going to be out in the area for a conference shortly, 
+P a u s c h P a g e | 9
+would you like to get together and have lunch? Translation: I’m going to lie to you and say that I
+have an excuse to be in the area so I don’t look too anxious, but I would go to Neptune to have
+lunch with you! [laughter] And so Jon said sure, and I spent something like 80 hours talking with all
+the VR experts in the world, saying if you had access to this one unbelievable project, what would
+you ask? And then I compiled all of that and I had to memorize it, which anybody that knows me
+knows that I have no memory at all, because I couldn’t go in looking like a dweeb with, you know, [in
+dweeby voice] Hi, Question 72. So, I went in, and this was like a two hour lunch, and Jon must have
+thought he was talking to some phenomenal person, because all I was doing was channeling Fred
+Brooks and Ivan Sutherland and Andy Van Dam and people like that. And Henry Fuchs. So it’s pretty
+easy to be smart when you’re parroting smart people. And at the end of the lunch with Jon, I sort
+of, as we say in the business, made “the ask.” And I said, you know, I have a sabbatical coming up.
+And he said, what’s that? [laughter] The beginnings of the culture clash. And so I talked with him
+about the possibility of coming there and working with him. And he said, well that’s really good
+except, you know, you’re in the business of telling people stuff and we’re in the business of keeping
+secrets. And then what made Jon Snoddy Jon Snoddy was he said, but we’ll work it out, which I
+really loved. The other thing that I learned from Jon Snoddy – I could do easily an hour long talk just
+on what have I learned from Jon Snoddy. One of the things he told me was that wait long enough
+and people will surprise and impress you. He said, when you’re pissed off at somebody and you’re
+angry at them, you just haven’t given them enough time. Just give them a little more time and
+they’ll almost always impress you. And that really stuck with me. I think he’s absolutely right on
+that one. So to make a long story short, we negotiated a legal contract. It was going to be the first –
+some people referred to it as the first and last paper ever published by Imagineering. That the deal
+was I go, I provide my own funding, I go for six months, I work with a project, we publish a paper.
+And then we meet our villain. [shows slide of a picture of a former dean of Randy’s] I can’t be all
+sweetness and light, because I have no credibility. Somebody’s head’s going to go on a stick. Turns
+out that the person who gets his head on a stick is a dean back at the University of Virginia. His
+name is not important. Let’s call him Dean Wormer. [laughter] And Dean Wormer has a meeting
+with me where I say I want to do this sabbatical thing and I’ve actually got the Imagineering guys to
+let an academic in, which is insane. I mean if Jon hadn’t gone nuts, this would never have been a
+possibility. This is a very secretive organization. And Dean Wormer looks at the paperwork and he
+says, well it says they’re going to own your intellectual property. And I said, yeah, we got the
+agreement to publish the paper. There is no other IP. I don’t do patentable stuff. And says, yeah,
+but you might. And so deal’s off. Just go and get them to change that little clause there and then
+come back to me. I’m like, excuse me? And then I said to him, I want you to understand how
+important this is. If we can’t work this out, I’m going to take an unpaid leave of absence and I’m just
+going to go there and I’m going to do this thing. And he said, hey, I might not even let you do that. I
+mean you’ve got the IP in your head already and maybe they’re going to suck it out of you, so that’s
+not going to fly either. [laughter] It’s very important to know when you’re in a pissing match. And
+it’s very important to get out of it as quickly as possible. So I said to him, well, let’s back off on this.
+Do we think this is a good idea at all? He said, I have no idea if this is a good idea. I was like,
+[sarcastically] OK, well we’ve got common ground there. Then I said, well is this really your call?
+Isn’t this the call of the Dean of Sponsored Research if it’s an IP issue? And he said, yeah, that’s true. 
+P a u s c h P a g e | 10
+I said, but so if he’s happy you’re happy? [So he says] Yeah, then I’d be fine. Whoosh! Like Wile E.
+Coyote, I’m gone in a big ball of dust. And I find myself in Gene Block’s office, who is the most
+fantastic man in the world. And I start talking to Gene Block and I say let’s start at the high level,
+since I don’t want to have to back out again. So let’s start at the high level. Do you think this is a
+good idea? He said, well if you’re asking me if it’s a good idea, I don’t have very much information.
+All I know is that one of my star faculty members is in my office and he’s really excited, so tell me
+more. Here’s a lesson for everybody in administration. They both said the same thing. But think
+about how they said it, right? [In a loud, barking voice] I don’t know! [In a pleasant voice] Well, I
+don’t have much information, but one of my start faculty members is here and he’s all excited so I
+want to learn more. They’re both ways of saying I don’t know, but boy there’s a good way and a bad
+way. So anyway, we got it all worked out. I went to Imagineering. Sweetness and light. And all’s
+well that ends well.
+Some brick walls are made of flesh. So I worked on the Aladdin Project. It was absolutely
+spectacular, I mean just unbelievable. Here’s my nephew Christopher. [Shows slide of Christopher
+on Aladdin apparatus] This was the apparatus. You would sit on this sort of motorcycle-type thing.
+And you would steer your magic carpet and you would put on the head-mounted display. The headmounted display is very interesting because it had two parts, and it was a very clever design. To get
+throughput up, the only part that touched the guest’s head was this little cap and everything else
+clicked onto it – all the expensive hardware. So you could replicate the caps because they were
+basically free to manufacture. [Showing slide of Randy cleaning a cap] And this is what I really did is
+I was a cap cleaner during the sabbatical. [laughter] I loved Imagineering. It was just a spectacular
+place. Just spectacular. Everything that I had dreamed. I loved the model shop. People crawling
+around on things the size of this room that are just big physical models. It was just an incredible
+place to walk around and be inspired. I’m always reminded of when I went there and people said,
+do you think your expectations are too high? And I said, you ever see the movie Charlie and the
+Chocolate Factory? Willy Wonka and The Chocolate Factory? Where Gene Wilder says to the little
+boy Charlie, he’s about to give him the chocolate factory. He says “Well Charlie, did anybody ever
+tell you the story of the little boy who suddenly got everything he ever wanted?” Charlie’s eyes get
+like saucers and he says, “No, what happened to him?” Gene Wilder says, “He lived happily ever
+after.” [laughter]
+OK, so working on the Aladdin VR, I described it as a once in every five careers opportunity, and I
+stand by that assessment. And it forever changed me. It wasn’t just that it was good work and I got
+to be a part of it. But it got me into the place of working with real people and real HCI user interface
+issues. Most HCI people live in this fantasy world of white collar laborers with Ph.D.s and masters
+degrees. And you know, until you got ice cream spilled on you, you’re not doing field work. And
+more than anything else, from Jon Snoddy I learned how to put artists and engineers together, and
+that’s been the real legacy.
+We published a paper. Just a nice academic cultural scandal. When we wrote the paper, the guys at
+Imagineering said, well let’s do a nice big picture. Like you would in a magazine. [Showing slide of
+first page of the paper, with a photo at the top that spans two columns]. And the SIGGRAPH 
+P a u s c h P a g e | 11
+committee, which accepted the paper, it was like this big scandal. Are they allowed to do that?
+[laughter] There was no rule! So we published the paper and amazingly since then there’s a
+tradition of SIGGRAPH papers having color figures on the first page. So I’ve changed the world in a
+small way. [laughter] And then at the end of my six months, they came to me and they said, you
+want to do it for real? You can stay. And I said no. One of the only times in my life I have surprised
+my father. He was like, you’re what? He said, since you were, you know [gesturing to height of a
+child’s head],this is all you wanted, and now that you got it, and you’re… huh? There was a bottle of
+Maalox in my desk drawer. Be careful what you wish for. It was a particularly stressful place.
+Imagineering in general is actually not so Maalox-laden, but the lab I was in – oh, Jon left in the
+middle. And it was a lot like the Soviet Union. It was a little dicey for awhile. But it worked out OK.
+And if they had said, stay here or never walk in the building again, I would have done it. I would
+have walked away from tenure, I would have just done it. But they made it easy on me. They said
+you can have your cake and eat it too. And I basically became a day-a-week consultant for
+Imagineering, and I did that for about ten years. And that’s one of the reasons you should all
+become professors. Because you can have your cake and eat it too.
+I went and consulted on things like DisneyQuest. So there was the Virtual Jungle Cruise. And the
+best interactive experience I think ever done, and Jesse Schell gets the credit for this, Pirates of the
+Caribbean. Wonderful at DisneyQuest.
+And so those are my childhood dreams. And that’s pretty good. I felt good about that. So then the
+question becomes, how can I enable the childhood dreams of others. And again, boy am I glad I
+became a professor. What better place to enable childhood dreams? Eh, maybe working at EA, I
+don’t know. That’d probably be a good close second. And this started in a very concrete realization
+that I could do this, because a young man named Tommy Burnett, when I was at the University of
+Virginia, came to me, was interested in joining my research group. And we talked about it, and he
+said, oh, and I have a childhood dream. It gets pretty easy to recognize them when they tell you.
+And I said, yes, Tommy, what is your childhood dream? He said, I want to work on the next Star
+Wars film. Now you got to remember the timing on this. Where is Tommy, Tommy is here today.
+What year would this have been? Your sophomore year.
+Tommy:
+It was around ’93.
+Randy Pausch:
+Are you breaking anything back there young man? OK, all right, so in 1993. And I said to Tommy,
+you know they’re probably not going to make those next movies. [laughter] And he said, no, THEY
+ARE. And Tommy worked with me for a number of years as an undergraduate and then as a staff
+member, and then I moved to Carnegie Mellon, every single member of my team came from Virginia
+to Carnegie Mellon except for Tommy because he got a better offer. And he did indeed work on all
+three of those films. And then I said, well that’s nice, but you know, one at a time is kind of
+inefficient. And people who know me know that I’m an efficiency freak. So I said, can I do this in 
+P a u s c h P a g e | 12
+mass? Can I get people turned in such a way that they can be turned onto their childhood dreams?
+And I created a course, I came to Carnegie Mellon and I created a course called Building Virtual
+Worlds. It’s a very simple course. How many people here have ever been to any of the shows?
+[Some people from audience raise hands] OK, so some of you have an idea. For those of you who
+don’t, the course is very simple. There are 50 students drawn from all the different departments of
+the university. There are randomly chosen teams, four people per team, and they change every
+project. A project only lasts two weeks, so you do something, you make something, you show
+something, then I shuffle the teams, you get three new playmates and you do it again. And it’s
+every two weeks, and so you get five projects during the semester. The first year we taught this
+course, it is impossible to describe how much of a tiger by the tail we had. I was just running the
+course because I wanted to see if we could do it. We had just learned how to do texture mapping
+on 3D graphics, and we could make stuff that looked half decent. But you know, we were running
+on really weak computers, by current standards. But I said I’ll give it a try. And at my new university
+[Carnegie Mellon] I made a couple of phone calls, and I said I want to cross-list this course to get all
+these other people. And within 24 hours it was cross-listed in five departments. I love this
+university. I mean it’s the most amazing place. And the kids said, well what content do we make? I
+said, hell, I don’t know. You make whatever you want. Two rules: no shooting violence and no
+pornography. Not because I’m opposed to those in particular, but you know, that’s been done with
+VR, right? [laughter] And you’d be amazed how many 19-year-old boys are completely out of ideas
+when you take those off the table. [laughter and clapping]
+Anyway, so I taught the course. The first assignment, I gave it to them, they came back in two
+weeks and they just blew me away. I mean the work was so beyond, literally, my imagination,
+because I had copied the process from Imagineering’s VR lab, but I had no idea what they could or
+couldn’t do with it as undergraduates, and their tools were weaker, and they came back on the first
+assignment, and they did something that was so spectacular that I literally didn’t, ten years as a
+professor and I had no idea what to do next. So I called up my mentor, and I called up Andy Van
+Dam. And I said, Andy, I just gave a two-week assignment, and they came back and did stuff that if I
+had given them a whole semester I would have given them all As. Sensei, what do I do? [laughter]
+And Andy thought for a minute and he said, you go back into class tomorrow and you look them in
+the eye and you say, “Guys, that was pretty good, but I know you can do better.” [laughter] And that
+was exactly the right advice. Because what he said was, you obviously don’t know where the bar
+should be, and you’re only going to do them a disservice by putting it anywhere. And boy was that
+good advice because they just kept going. And during that semester it became this underground
+thing. I’d walk into a class with 50 students in it and there were 95 people in the room. Because it
+was the day we were showing work. And people’s roommates and friends and parents – I’d never
+had parents come to class before! It was flattering and somewhat scary. And so it snowballed and
+we had this bizarre thing of, well we’ve got to share this. If there’s anything I’ve been raised to do,
+it’s to share, and I said, we’ve got to show this at the end of the semester. We’ve got to have a big
+show. And we booked this room, McConomy. I have a lot of good memories in this room. And we
+booked it not because we thought we could fill it, but because it had the only AV setup that would
+work, because this was a zoo. Computers and everything. And then we filled it. And we more than 
+P a u s c h P a g e | 13
+filled it. We had people standing in the aisle. I will never forget the dean at the time, Jim Morris
+was sitting on the stage right about there. We had to kind of scoot him out of the way. And the
+energy in the room was like nothing I had ever experienced before. And President Cohen, Jerry
+Cohen was there, and he sensed the same thing. He later described it as like an Ohio State football
+pep rally. Except for academics. And he came over and he asked exactly the right question. He
+said, before you start, he said, where are these people from? He said, the audience, what
+departments are they from? And we polled them and it was all the departments. And I felt very
+good because I had just come to campus, he had just come to campus, and my new boss had seen in
+a very corporal way that this is the university that puts everybody together. And that made me feel
+just tremendous.
+So we did this campus-wide exhibition. People performed down here. They’re in costume, and we
+project just like this and you can see what’s going on. You can see what they’re seeing in the head
+mount. There’s a lot of big props, so there’s a guy white water rafting. [shows slides of a BVW show]
+This is Ben in E.T. And yes, I did tell them if they didn’t do the shot of the kids biking across the
+moon I would fail him. That is a true story. And I thought I’d show you just one world, and if we can
+get the lights down if that’s at all possible. No, ok, that means no. All right. All right we’ll just do
+our best then. [Shows “Hello.world” world done in the BVW class, audience applauds at the end.] It
+was an unusual course. With some of the most brilliant, creative students from all across the
+campus. It just was a joy to be involved. And they took the whole stage performance aspect of this
+way too seriously [shows pictures of very strange costumes students wore]. And it became this
+campus phenomenon every year. People would line up for it. It was very flattering. And it gave kids
+a sense of excitement of putting on a show for people who were excited about it. And I think that
+that’s one of the best things you can give somebody – the chance to show them what it feels like to
+make other people get excited and happy. I mean that’s a tremendous gift. We always try to
+involve the audience. Whether it was people with glow sticks or batting a beach ball around… or
+driving [shows photo of audience members leaning in their seats to steer a car]. This is really cool.
+This technology actually got used at the Spiderman 3 premiere in L.A., so the audience was
+controlling something on the screen, so that’s kind of nice. And I don’t have a class picture from
+every year, but I dredged all the ones that I do have, and all I can say is that what a privilege and an
+honor it was to teach that course for something like ten years.
+And all good things come to an end. And I stopped teaching that course about a year ago. People
+always ask me what was my favorite moment. I don’t know if you could have a favorite moment.
+But boy there is one I’ll never forget. This was a world with, I believe a roller skating ninja. And one
+of the rules was that we perform these things live and they all had to really work. And the moment
+it stopped working, we went to your backup videotape. And this was very embarrassing. [Shows
+image of Roller Ninja world presentation] So we have this ninja on stage and he’s doing this roller
+skating thing and the world, it did not crash gently. Whoosh. And I come out, and I believe it was
+Steve, Audia, wasn’t it? Where is he? OK, where is Steve? Ah, my man. Steve Audia. And talk
+about quick on your feet. I say, Steve, I’m sorry but your world has crashed and we’re going to go to
+videotape. And he pulls out his ninja sword and says, I am dishonored! Whaaa! And just drops! 
+P a u s c h P a g e | 14
+[applause and laughter] And so I think it’s very telling that my very favorite moment in ten years of
+this high technology course was a brilliant ad lib. And then when the videotape is done and the
+lights come up, he’s lying there lifeless and his teammates drag him off! [laughter] It really was a
+fantastic moment.
+And the course was all about bonding. People used to say, you know, what’s going to make for a
+good world? I said, I can’t tell you beforehand, but right before they present it I can tell you if the
+world’s good just by the body language. If they’re standing close to each other, the world is good.
+And BVW was a pioneering course [Randy puts on vest with arrows poking out of the back], and I
+won’t bore you with all the details, but it wasn’t easy to do, and I was given this when I stepped
+down from the ETC and I think it’s emblematic. If you’re going to do anything that pioneering you
+will get those arrows in the back, and you just have to put up with it. I mean everything that could
+go wrong did go wrong. But at the end of the day, a whole lot of people had a whole lot of fun.
+When you’ve had something for ten years that you hold so precious, it’s the toughest thing in the
+world to hand it over. And the only advice I can give you is, find somebody better than you to hand
+it to. And that’s what I did. There was this kid at the VR studios way back when, and you didn’t have
+to spend very long in Jesse Schell’s orbit to go, the force is strong in this one. And one of my
+greatest – my two greatest accomplishments I think for Carnegie Mellon was that I got Jessica
+Hodgins and Jesse Schell to come here and join our faculty. And I was thrilled when I could hand this
+over to Jesse, and to no one’s surprise, he has really taken it up to the next notch. And the course is
+in more than good hands – it’s in better hands. But it was just one course. And then we really took
+it up a notch. And we created what I would call the dream fulfillment factory. Don Marinelli and I
+got together and with the university’s blessing and encouragement, we made this thing out of whole
+cloth that was absolutely insane. Should never have been tried. All the sane universities didn’t go
+near this kind of stuff. Creating a tremendous opportunistic void. So the Entertainment Technology
+Center was all about artists and technologists working in small teams to make things. It was a twoyear professional master’s degree. And Don and I were two kindred spirits. We’re very different –
+anybody who knows us knows that we are very different people. And we liked to do things in a new
+way, and the truth of the matter is that we are both a little uncomfortable in academia. I used to
+say that I am uncomfortable as an academic because I come from a long line of people who actually
+worked for a living, so. [Nervous laughter] I detect nervous laughter! And I want to stress, Carnegie
+Mellon is the only place in the world that the ETC could have happened. By far the only place.
+[Shows slide of Don Marinelli in tye-dyed shirt, shades and an electric guitar, sitting on a desk next
+to Randy, wearing nerd glasses, button-up shirt, staring at a laptop. Above their heads were the
+labels “Right brain/Left brain”] [laughter] OK, this picture was Don’s idea, OK? And we like to refer
+to this picture as Don Marinelli on guitar and Randy Pausch on keyboards. [laughter] But we really
+did play up the left brain, right brain and it worked out really well that way. [Shows slide of Don
+looking intense] Don is an intense guy. And Don and I shared an office, and at first it was a small
+office. We shared an office for six years. You know, those of you who know Don know he’s an
+intense guy. And you know, given my current condition, somebody was asking me … this is a
+terrible joke, but I’m going to use it anyway. Because I know Don will forgive me. Somebody said, 
+P a u s c h P a g e | 15
+given your current condition, have you thought about whether you’re going to go to heaven or hell?
+And I said, I don’t know, but if I’m going to hell, I’m due six years for time served! [laughter] I kid.
+Sharing an office with Don was really like sharing an office with a tornado. There was just so much
+energy and you never knew which trailer was next, right? But you know something exciting was
+going to happen. And there was so much energy, and I do believe in giving credit where credit is
+due. So in my typically visual way, if Don and I were to split the success for the ETC, he clearly gets
+the lion’s share of it. [Shows image of a pie chart divided 70/30 (Don/Randy) ] He did the lion’s share
+of the work, ok, he had the lion’s share of the ideas. It was a great teamwork. I think it was a great
+yin and a yang, but it was more like YIN and yang. And he deserves that credit and I give it to him
+because the ETC is a wonderful place. And he’s now running it and he’s taking it global. We’ll talk
+about that in a second.
+Describing the ETC is really hard, and I finally found a metaphor. Telling people about the ETC is like
+describing Cirque du Soleil if they’ve never seen it. Sooner or later you’re going to make the
+mistake. You’re going to say, well it’s like a circus. And then you’re dragged into this conversation
+about oh, how many tigers, how many lions, how many trapeze acts? And that misses the whole
+point. So when we say we’re a master’s degree, we’re really not like any master’s degree you’ve
+ever seen. Here’s the curriculum [Shows slide of ETC curriculum, listing “Project Course” as the only
+course each semester; audience laughs] The curriculum ended up looking like this. [shows slightly
+more detailed slide]. All I want to do is visually communicate to you that you do five projects in
+Building Virtual Worlds, then you do three more. All of your time is spent in small teams making
+stuff. None of that book learning thing. Don and I had no patience for the book learning thing. It’s
+a master’s degree. They already spent four years doing book learning. By now they should have
+read all the books.
+The keys to success were that Carnegie Mellon gave us the reins. Completely gave us the reins. We
+had no deans to report to. We reported directly to the provost, which is great because the provost
+is way too busy to watch you carefully. [laughter] We were given explicit license to break the mold.
+It was all project based. It was intense, it was fun, and we took field trips! Every spring semester in
+January, we took all 50 students in the first year class and we’d take them out to Pixar, Industrial
+Light and Magic, and of course when you’ve got guys like Tommy there acting as host, right, it’s
+pretty easy to get entrée to these places. So we did things very, very differently. The kind of
+projects students would do, we did a lot of what we’d call edutainment.
+We developed a bunch of things with the Fire Department of New York, a network simulator for
+training firefighters, using video game-ish type technology to teach people useful things. That’s not
+bad. Companies did this strange thing. They put in writing, we promise to hire your students. I’ve
+got the EA and Activision ones here. I think there are now, how many, five? Drew knows I bet.
+[Drew Davison, head of ETC-Pittsburgh, gestures with five fingers]. So there are five written
+agreements. I don’t know of any other school that has this kind of written agreement with any
+company. And so that’s a real statement. And these are multiple year things, so they’re agreeing to
+hire people for summer internships that we have not admitted yet. That’s a pretty strong statement
+about the quality of the program. And Don, as I said, he’s now, he’s crazy. In a wonderful 
+P a u s c h P a g e | 16
+complimentary way. He’s doing these things where I’m like, oh my god. He’s not here tonight
+because he’s in Singapore because there’s going to be an ETC campus in Singapore. There’s already
+on in Australia and there’s going to be on in Korea. So this is becoming a global phenomenon. So I
+think this really speaks volumes about all the other universities. It’s really true that Carnegie Mellon
+is the only university that can do this. We just have to do it all over the world now.
+One other big success about the ETC is teaching people about feedback [puts up bar chart where
+students are (anonymous) listed on a scale labeled “how easy to work with” ] -- oh I hear the
+nervous laughter from the students. I had forgotten the delayed shock therapy effect of these bar
+charts. When you’re taking Building Virtual Worlds, every two weeks we get peer feedback. We put
+that all into a big spreadsheet and at the end of the semester, you had three teammates per project,
+five projects, that’s 15 data points, that’s statistically valid. And you get a bar chart telling you on a
+ranking of how easy you are to work with, where you stacked up against your peers. Boy that’s hard
+feedback to ignore. Some still managed. [laughter] But for the most part, people looked at that and
+went, wow, I’ve got to take it up a notch. I better start thinking about what I’m saying to people in
+these meetings. And that is the best gift an educator can give is to get somebody to become self
+reflective.
+So the ETC was wonderful, but even the ETC and even as Don scales it around the globe, it’s still very
+labor intensive, you know. It’s not Tommy one-at-a-time. It’s not a research group ten at a time.
+It’s 50 or 100 at a time per campus times four campuses. But I wanted something infinitely scalable.
+Scalable to the point where millions or tens of millions of people could chase their dreams with
+something. And you know, I guess that kind of a goal really does make me the Mad Hatter. [Puts on
+a Mad Hatter’s green top hat]. So Alice is a project that we worked on for a long, long time. It’s a
+novel way to teach computer programming. Kids make movies and games. The head fake – again,
+we’re back to the head fakes. The best way to teach somebody something is to have them think
+they’re learning something else. I’ve done it my whole career. And the head fake here is that
+they’re learning to program but they just think they’re making movies and video games. This thing
+has already been downloaded well over a million times. There are eight textbooks that have been
+written about it. Ten percent of U.S. colleges are using it now. And it’s not the good stuff yet. The
+good stuff is coming in the next version. I, like Moses, get to see the promised land, but I won’t get
+to set foot in it. And that’s OK, because I can see it. And the vision is clear. Millions of kids having
+fun while learning something hard. That’s pretty cool. I can deal with that as a legacy. The next
+version’s going to come out in 2008. It’s going to be teaching the Java language if you want them to
+know they’re learning Java. Otherwise they’ll just think that they’re writing movie scripts. And
+we’re getting the characters from the bestselling PC video game in history, The Sims. And this is
+already working in the lab, so there’s no real technological risk. I don’t have time to thank and
+mention everybody in the Alice team, but I just want to say that Dennis Cosgrove is going to be
+building this, has been building this. He is the designer. This is his baby. And for those of you who
+are wondering, well, in some number of months who should I be emailing about the Alice project,
+where’s Wanda Dann? Oh, there you are. Stand up, let them all see you. Everybody say, Hi Wanda.
+Audience: 
+P a u s c h P a g e | 17
+Hi, Wanda.
+Randy Pausch:
+Send her the email. And I’ll talk a little bit more about Caitlin Kelleher, but she’s graduated with her
+Ph.D., and she’s at Washington University, and she’s going to be taking this up a notch and going to
+middle schools with it. So, grand vision and to the extent that you can live on in something, I will
+live on in Alice.
+All right, so now the third part of the talk. Lessons learned. We’ve talked about my dreams. We’ve
+talked about helping other people enable their dreams. Somewhere along the way there’s got to be
+some aspect of what lets you get to achieve your dreams. First one is the rule of parents, mentors
+and students. I was blessed to have been born to two incredible people. This is my mother on her
+70th birthday. [Shows slide of Randy’s mom driving a race car on an amusement park race course]
+[laughter] I am back here. I have just been lapped. [laughter] This is my dad riding a roller coaster
+on his 80th birthday. [Shows slide of dad] And he points out that he’s not only brave, he’s talented
+because he did win that big bear the same day. My dad was so full of life, anything with him was an
+adventure. [Shows picture of his Dad holding a brown paper bag.] I don’t know what’s in that bag,
+but I know it’s cool. My dad dressed up as Santa Claus, but he also did very, very significant things
+to help lots of people. This is a dormitory in Thailand that my mom and dad underwrote. And every
+year about 30 students get to go to school who wouldn’t have otherwise. This is something my wife
+and I have also been involved in heavily. And these are the kind of things that I think everybody
+ought to be doing. Helping others.
+But the best story I have about my dad – unfortunately my dad passed away a little over a year ago
+– and when we were going through his things, he had fought in World War II in the Battle of the
+Bulge, and when we were going through his things, we found out he had been awarded the Bronze
+Star for Valor. My mom didn’t know it. In 50 years of marriage it had just never come up.
+My mom. [Shows picture of Randy as a young child, pulling his Mom’s hair]. Mothers are people
+who love even when you pull their hair. And I have two great mom stories. When I was here
+studying to get my Ph.D. and I was taking something called the theory qualifier, which I can
+definitively say is the second worst thing in my life after chemotherapy. [laughter] And I was
+complaining to my mother about how hard this test was and how awful it was, and she just leaned
+over and she patted me on the arm and she said, we know how you feel honey, and remember when
+your father was your age he was fighting the Germans. [laugher] After I got my Ph.D., my mother
+took great relish in introducing me as, this is my son, he’s a doctor but not the kind that helps people.
+[laughter] These slides are a little bit dark [meaning “hard to see”], but when I was in high school I
+decided to paint my bedroom. [shows slides of bedroom] I always wanted a submarine and an
+elevator. And the great thing about this [shows slide of quadratic formula painted on wall]
+[interrupted by laughter] – what can I say? And the great thing about this is they let me do it. And
+they didn’t get upset about it. And it’s still there. If you go to my parent’s house it’s still there. And 
+P a u s c h P a g e | 18
+anybody who is out there who is a parent, if your kids want to paint their bedroom, as a favor to me
+let them do it. It’ll be OK. Don’t worry about resale value on the house.
+Other people who help us besides our parents: our teachers, our mentors, our friends, our
+colleagues. God, what is there to say about Andy Van Dam? When I was a freshman at Brown, he
+was on leave. And all I heard about was this Andy Van Dam. He was like a mythical creature. Like a
+centaur, but like a really pissed off centaur. And everybody was like really sad that he was gone, but
+kind of more relaxed? And I found out why. Because I started working for Andy. I was a teaching
+assistant for him as a sophomore. And I was quite an arrogant young man. And I came in to some
+office hours and of course it was nine o’clock at night and Andy was there at office hours, which is
+your first clue as to what kind of professor he was. And I come bounding in and you know, I’m just
+I’m going to save the world. There’re all these kids waiting for help, da da, da da, da da, da da, da
+da. And afterwards, Andy literally Dutch-uncled – he’s Dutch, right? He Dutch-uncled me. And he
+put his arm around my shoulders and we went for a little walk and he said, Randy, it’s such a shame
+that people perceive you as so arrogant. Because it’s going to limit what you’re going to be able to
+accomplish in life. What a hell of a way to word “you’re being a jerk.” [laughter] Right? He doesn’t
+say you’re a jerk. He says people are perceiving you this way and he says the downside is it’s going
+to limit what you’re going to be able to accomplish.
+When I got to know Andy better, the beatings became more direct, but. [laughter] I could tell you
+Andy stories for a month, but the one I will tell you is that when it came time to start thinking about
+what to do about graduating from Brown, it had never occurred to me in a million years to go to
+graduate school. Just out of my imagination. It wasn’t the kind of thing people from my family did.
+We got, say, what do you call them? …. jobs. And Andy said, no, don’t go do that. Go get a Ph.D.
+Become a professor. And I said, why? And he said, because you’re such a good salesman that any
+company that gets you is going to use you as a salesman. And you might as well be selling
+something worthwhile like education. [long pause, looks directly at Andy van Dam] Thanks.
+Andy was my first boss, so to speak. I was lucky enough to have a lot of bosses. [shows slide of
+various bosses] That red circle is way off. Al is over here. [laughter] I don’t know what the hell
+happened there. He’s probably watching this on the webcast going, my god he’s targeting and he
+still can’t aim! [laughter] I don’t want to say much about the great bosses I’ve had except that they
+were great. And I know a lot of people in the world that have had bad bosses, and I haven’t had to
+endure that experience and I’m very grateful to all the people that I ever had to have worked for.
+They have just been incredible.
+But it’s not just our bosses, we learn from our students. I think the best head fake of all time comes
+from Caitlin Kelleher. Excuse me, Doctor Caitlin Kelleher, who just finished up here and is starting at
+Washington University, and she looked at Alice when it was an easier way to learn to program, and
+she said, yeah, but why is that fun? I was like, ‘cause uh, I’m a compulsive male…I like to make the
+little toy soldiers move around by my command, and that’s fun. She’s like, hmm. And she was the
+one who said, no, we’ll just approach it all as a storytelling activity. And she’s done wonderful work
+showing that, particularly with middle school girls, if you present it as a storytelling activity, they’re 
+P a u s c h P a g e | 19
+perfectly willing to learn how to write computer software. So all-time best head fake award goes to
+Caitlin Kelleher’s dissertation.
+President Cohen, when I told him I was going to do this talk, he said, please tell them about having
+fun, because that’s what I remember you for. And I said, I can do that, but it’s kind of like a fish
+talking about the importance of water. I mean I don’t know how to not have fun. I’m dying and I’m
+having fun. And I’m going to keep having fun every day I have left. Because there’s no other way to
+play it.
+So my next piece of advice is, you just have to decide if you’re a Tigger or and Eeyore. [shows slide
+with an image of Tigger and Eeyore with the phrase “Decide if you’re Tigger or Eeyore”] I think I’m
+clear where I stand on the great Tigger/Eeyore debate. [laughter] Never lose the childlike wonder.
+It’s just too important. It’s what drives us. Help others. Denny Proffitt knows more about helping
+other people. He’s forgotten more than I’ll ever know. He’s taught me by example how to run a
+group, how to care about people. M.K. Haley – I have a theory that people who come from large
+families are better people because they’ve just had to learn to get along. M.K. Haley comes from a
+family with 20 kids. [audience collectively “aaahs”] Yeah. Unbelievable. And she always says it’s
+kind of fun to do the impossible. When I first got to Imagineering, she was one of the people who
+dressed me down, and she said, I understand you’ve joined the Aladdin Project. What can you do?
+And I said, well I’m a tenured professor of computer science. And she said, well that’s very nice
+Professor Boy, but that’s not what I asked. I said what can you do? [laughter]
+And you know I mentioned sort of my working class roots. We keep what is valuable to us, what we
+cherish. And I’ve kept my [high school] letterman’s jacket all these years. [Puts on letterman’s
+jacket] I used to like wearing it in grad school, and one of my friends, Jessica Hodgins would say, why
+do you wear this letterman’s jacket? And I looked around at all the non-athletic guys around me
+who were much smarter than me. And I said, because I can. [laughter] And so she thought that was
+a real hoot so one year she made for me this little Raggedy Randy doll. [takes out Raggedy Randy]
+[laughter] He’s got a little letterman’s jacket too. That’s my all-time favorite. It’s the perfect gift for
+the egomaniac in your life. So, I’ve met so many wonderful people along the way.
+Loyalty is a two way street. There was a young man named Dennis Cosgrove at the University of
+Virginia, and when he was a young man, let’s just say things happened. And I found myself talking
+to a dean. No, not that dean. And anyway, this dean really had it in for Dennis, and I could never
+figure out why because Dennis was a fine fellow. But for some reason this Dean really had it in for
+him. And I ended up basically saying, no, I vouch for Dennis. And the guy says, you’re not even
+tenured yet and you’re telling me you’re going to vouch for this sophomore or junior or whatever? I
+think he was a junior at the time. I said, yeah, I’m going to vouch for him because I believe in him.
+And the dean said, and I’m going to remember this when your tenure case comes up. And I said,
+deal. I went back to talk to Dennis and I said, I would really appreciate you… that would be good.
+But loyalty is a two-way street. That was god knows how many years ago, but that’s the same
+Dennis Cosgrove who’s carrying Alice forward. He’s been with me all these years. And if we only
+had one person to send in a space probe to meet an alien species, I’m picking Dennis. [laughter] You 
+P a u s c h P a g e | 20
+can’t give a talk at Carnegie Mellon without acknowledging one very special person. And that would
+be Sharon Burks. I joked with her, I said, well look, if you’re retiring, it’s just not worth living
+anymore. Sharon is so wonderful it’s beyond description, and for all of us who have been helped by
+her, it’s just indescribable. I love this picture because it puts here together with Syl, and Syl is great
+because Syl gave the best piece of advice pound-for-pound that I have ever heard. And I think all
+young ladies should hear this. Syl said, it took me a long time but I’ve finally figured it out. When it
+comes to men that are romantically interested in you, it’s really simple. Just ignore everything they
+say and only pay attention to what they do. It’s that simple. It’s that easy. And I thought back to
+my bachelor days and I said, damn. [laughter]
+Never give up. I didn’t get into Brown University. I was on the wait list. I called them up and they
+eventually decided that it was getting really annoying to have me call everyday so they let me in. At
+Carnegie Mellon I didn’t get into graduate school. Andy had mentored me. He said, go to graduate
+school, you’re going to Carnegie Mellon. All my good students go to Carnegie Mellon. Yeah, you
+know what’s coming. And so he said, you’re going to go to Carnegie Mellon no problem. What he
+had kind of forgotten was that the difficulty of getting to the top Ph.D. program in the country had
+really gone up. And he also didn’t know I was going to tank my GRE’s because he believed in me.
+Which, based on my board scores was a really stupid idea. And so I didn’t get into Carnegie Mellon.
+No one knows this. ‘Til today I’m telling the story. I was declined admission to Carnegie Mellon.
+And I was a bit of an obnoxious little kid. I went into Andy’s office and I dropped the rejection letter
+on his desk. And I said, I just want you to know what your letter of recommendation goes for at
+Carnegie Mellon. [laughter] And before the letter had hit his desk, his hand was on the phone and
+he said, I will fix this. [laughter] And I said, no no no, I don’t want to do it that way. That’s not the
+way I was raised. [In a sad voice] Maybe some other graduate schools will see fit to admit me.
+[laughter] And he said, look, Carnegie Mellon’s where you’re going to be. He said, I’ll tell you what,
+I’ll make you a deal. Go visit the other schools. Because I did get into all the other schools. He said,
+go visit the other schools and if you really don’t feel comfortable at any of them, then will you let me
+call Nico? Nico being Nico Habermann [the head of Carnegie Mellon’s Computer Science Dept.] and
+I said, OK deal. I went to the other schools. Without naming them by name -- [in a coughing voice]
+Berkeley, Cornell. They managed to be so unwelcoming that I found myself saying to Andy, you
+know, I’m going to get a job. And he said, no, you’re not. And he picked up the phone and he talked
+in Dutch. [laughter] And he hung up the phone and he said, Nico says if you’re serious, be in his
+office tomorrow morning at eight a.m. And for those of you who know Nico, this is really scary. So
+I’m in Nico Habermann’s office the next morning at eight a.m. and he’s talking with me, and frankly I
+don’t think he’s that keen on this meeting. I don’t think he’s that keen at all. And he says, Randy,
+why are we here? And I said, because Andy phoned you? Heh-heh. [laughter] And I said, well, since
+you admitted me, I have won a fellowship. The Office of Naval Research is a very prestigious
+fellowship. I’ve won this fellowship and that wasn’t in my file when I applied. And Nico said, a
+fellowship, money, we have plenty of money. That was back then. He said, we have plenty of
+money. Why do you think having a fellowship makes any difference to us? And he looked at me.
+There are moments that change your life. And ten years later if you know in retrospect it was one of
+those moments, you’re blessed. But to know it at the moment …. with Nico staring through your 
+P a u s c h P a g e | 21
+soul. [laughter] And I said, I didn’t mean to imply anything about the money. It’s just that it was an
+honor. There were only 15 given nationwide. And I did think it was an honor that would be
+something that would be meritorious. And I apologize if that was presumptuous. And he smiled.
+And that was good.
+So. How do you get people to help you? You can’t get there alone. People have to help you and I
+do believe in karma. I believe in paybacks. You get people to help you by telling the truth. Being
+earnest. I’ll take an earnest person over a hip person every day, because hip is short term. Earnest
+is long term.
+Apologize when you screw up and focus on other people, not on yourself. And I thought, how do I
+possibly make a concrete example of that? [Speaking to stage hand] Do we have a concrete
+example of focusing on somebody else over there? Could we bring it out? [Speaking to audience]
+See, yesterday was my wife’s birthday. If there was ever a time I might be entitled to have the focus
+on me, it might be the last lecture. But no, I feel very badly that my wife didn’t really get a proper
+birthday, and I thought it would be very nice if 500 people— [an oversized birthday cake is wheeled
+onto the stage] [applause] Happy—
+Everyone:
+…birthday to you [Randy: her name is Jai], happy birthday to you. Happy birthday dear Jai, happy
+birthday to you! [applause]
+[Jai walks on stage, teary-eyed. She walks with Randy to the cake. Randy: You gotta blow it out. The
+audience goes quiet. Jai blows out the candle on the cake. Randy: All right. Massive applause.]
+Randy Pausch:
+And now you all have an extra reason to come to the reception. [laughter] Remember brick walls let
+us show our dedication. They are there to separate us from the people who don’t really want to
+achieve their childhood dreams. Don’t bail. The best of the gold’s at the bottom of barrels of crap.
+[Shows slide of Steve Seabolt next to a picture of The Sims] [laughter] What Steve didn’t tell you was
+the big sabbatical at EA, I had been there for 48 hours and they loved the ETC, we were the best, we
+were the favorites, and then somebody pulled me aside and said, oh, by the way, we’re about to
+give eight million dollars to USC to build a program just like yours. We’re hoping you can help them
+get it off the ground. [laughter] And then Steve came along and said, they said what? Oh god. And
+to quote a famous man, I will fix this. And he did. Steve has been an incredible partner. And we
+have a great relationship, personal and professional. And he has certainly been point man on
+getting a gaming asset to help teach millions of kids and that’s just incredible. But, you know, it
+certainly would have been reasonable for me to leave 48 hours after that sabbatical, but it wouldn’t
+have been the right thing to do, and when you do the right thing, good stuff has a way of happening.
+Get a feedback loop and listen to it. Your feedback loop can be this dorky spreadsheet thing I did, or
+it can just be one great man who tells you what you need to hear. The hard part is the listening to it. 
+P a u s c h P a g e | 22
+Anybody can get chewed out. It’s the rare person who says, oh my god, you were right. As opposed
+to, no wait, the real reason is… We’ve all heard that. When people give you feedback, cherish it and
+use it.
+Show gratitude. When I got tenure I took all of my research team down to Disneyworld for a week.
+And one of the other professors at Virginia said, how can you do that? I said these people just
+busted their ass and got me the best job in the world for life. How could I not do that?
+Don’t complain. Just work harder. [shows slide of Jackie Robinson, the first black major league
+baseball player] That’s a picture of Jackie Robinson. It was in his contract not to complain, even
+when the fans spit on him.
+Be good at something, it makes you valuable.
+Work hard. I got tenure a year early as Steve mentioned. Junior faculty members used to say to me,
+wow, you got tenure early. What’s your secret? I said, it’s pretty simple. Call my any Friday night in
+my office at ten o’clock and I’ll tell you.
+Find the best in everybody. One of the things that Jon Snoddy as I said told me, is that you might
+have to wait a long time, sometimes years, but people will show you their good side. Just keep
+waiting no matter how long it takes. No one is all evil. Everybody has a good side, just keep waiting,
+it will come out.
+And be prepared. Luck is truly where preparation meets opportunity.
+So today’s talk was about my childhood dreams, enabling the dreams of others, and some lessons
+learned. But did you figure out the head fake? [dramatic pause] It’s not about how to achieve your
+dreams. It’s about how to lead your life. If you lead your life the right way, the karma will take care
+of itself. The dreams will come to you.
+Have you figured out the second head fake? The talk’s not for you, it’s for my kids. Thank you all,
+good night.
+[applause; standing ovation for 90 seconds; Randy brings Jai onto the stage and they take a bow; they sit
+down in their seats; standing ovation continues for another minute]
+Randy Bryant:
+Thank you everyone. I’d like to thank all of you for coming. This really means a lot I know to Randy.
+He had this theory even up to yesterday that there wouldn’t be anyone in the room.
+Randy Pausch [from seat]:
+After CS50…
+Randy Bryant: 
+P a u s c h P a g e | 23
+I know. I’m the other Randy. That’s been my role here for the past 10 years ever since Randy
+Pausch came here on the faculty. And what I mean by that is, I introduce myself. I’m Randy Bryant
+from Computer Science. They go, oh, Randy from CS. You’re the one that does all that cool stuff of
+building virtual worlds and teaching children how to program. And I go, no, no, sorry. That’s the
+other Randy. I’m the wrong one. Sorry, I’m just like a dull nerd. [laughter] So, but I’m very pleased
+today to be able to sort of run a brief series of ways in which we want to recognize Randy for his
+contributions he’s made to Carnegie Mellon, to computer science and to the world at large. So we
+have a few – it will be a brief program. We have a few people I’ll be bringing up one after the other.
+I’m sort of the MC here. So first I’d like to introduce who you’ve already met, Steve Seabolt from
+Electronic Arts. [applause]
+Steve Seabolt:
+My family wondered whether or not I would make it through the introduction. [voice starts to crack
+up] And I did that but I might not do so well now. So bear with me. As Randy mentioned, he and I,
+Carnegie Mellon and Electronic Arts share a particular passion about nurturing young girls and trying
+to encourage young girls to stay with math and stay with science. Every geek in the world shouldn’t
+be a guy. You know, it’s such a twist of fate that there’s so many people that are worried about offshoring, and at the same time companies are forced to off-shore, there are fewer and fewer
+students entering computer science. And the number of women entering computer science just
+keeps dropping like a rock. There are way too few Caitlins in this world. And Caitlin, we need so
+many more of you. And with that in mind, Electronic Arts has endowed a scholarship fund. It’s the
+Randy Pausch endowed scholarship fund, established in 2007 by EA. In honor of Randy’s leadership
+and contribution to education, computer science, digital entertainment, and his commitment to
+women in technology. This scholarship will be awarded annually to a female undergraduate CMU
+student who demonstrates excellence in computer science and a passion in the pursuit of a career in
+video games. Randy, we’re so honored to do this in your name. [applause]
+Randy Bryant:
+Next I’d like to introduce Jim Foley. He’s on the faculty at Georgia Tech and he’s here representing
+the ACM Special Interest Group in Computer Human Interaction. Jim. [applause]
+Jim Foley:
+[motions to Randy Pausch to come on stage; gives him a hug] That was for Jim. [applause] ACM, the
+Association for Computing Machinery is a group of about 100,000 computing professionals. One of
+their special areas of interest is computer human interaction. A few weeks ago, someone who’s a
+very good friend of Randy’s wrote a citation which was endorsed by a number of people and went to
+the executive committee of SIGCHI, which on behalf of the SIGCHI membership, has authorized this
+special presentation. The citation was written by Ben Schneiderman and worked on then by Jenny
+Preese and Ben Peterson, and endorsed by a whole bunch of your friends and now from the
+executive committee. So let me read to you the citation. Special award for professional
+contributions. Randy Pausch’s innovative work has spanned several disciplines and has inspired both 
+P a u s c h P a g e | 24
+mature researchers and a generation of students. His deep technical competence, choice of
+imaginative projects and visionary thinking are always combined with energy and passion. We’ve
+seen that. From his early work on the simple user interface toolkit to his current work on 3D Alice
+programming language, he has shown that innovative tool design enables broad participation in
+programming, especially by women and minorities. Randy Pausch has vigorous commitment to
+engaging students at every level by compelling and intellectually rigorous projects, and his appealing
+lecture style for a role-model for every teacher and lecture. Yes, yes yes. [voice starts to crack up]
+His work has helped make team project experiences and educational computing research more
+common and respected. As a National Science Foundation Presidential Young Investigator, a Lilly
+Teaching Foundation Teaching Fellow, co-founder of the CMU ET Center and consultant for Disney
+Imagineering and EA, Randy’s done pioneering work in combining computing interface design and
+emotionally rich experiences. For these and many other contributions, the ACM SIGCHI executive
+council is proud to present to Randy Pausch a special award for professional contributions.
+[applause] [Randy comes back on stage to receive award]
+Randy Bryant:
+Thank you, Jim. Next I’d like to introduce Jerry Cohen, the President of Carnegie Mellon University.
+[applause]
+Jerry Cohen:
+Thank you other Randy. [Tries to move Randy Pausch’s bag of props to the side of the podium] You
+know you’re traveling heavy, buddy. Many of us have been thinking about and talking about how
+we can recognize you on this campus in a way that is lasting and fitting in terms of what you meant
+to this university. A lot of people are involved in this. You thought the provost wasn’t paying
+attention all those years. [laughter] Actually, one of the ways we’re going to remember you is this
+$50,000 bill for stuffed animals. $47,862.32 for pizza. You’ve made great contributions, Randy, we
+really appreciate it. [laughter] One thing we could not do, regrettably, is figure out a way to capture
+the kind of person that you are. You’re humanity, what you’ve meant to us as a colleague, as a
+teacher. As a student. And as a friend. There’s just no way to capture that. There is our memories,
+however. And there is a way to remember you every day, as people walk this campus. So we’ve
+come up with an idea. You’ve done great things for this campus and for computer science and for
+the world. Surely Alice will live on. But the one we’re going to focus on right now is what you’ve
+done to connect computer science with the arts. It was remarkable, it was stunning. It’s had
+enormous impact, and it will last, I daresay forever. So to recognize that, we are going to do the
+following. Good job, other Randy. [laughter, as Randy Bryant gets the projector to show the next
+slide] In order to effect this, we had to build a building. [Shows slide of mockup of Gates building] A
+hundred million dollar building which will allow us to do the following. You’ll note, by the way, to
+orient people. So the Purnell Center for the Arts is the home of the School of Drama. That modern
+looking new thing, half of which has a green roof, is the new Gates Center for Computer Science.
+And we had long planned to connect these two physically, both to allow people to get down from
+the cut to lower campus, and you have to admit it carries tremendous symbolic importance. Well 
+P a u s c h P a g e | 25
+on behalf of the Board of Trustees of Carnegie Mellon and on behalf of the entire university, I’m
+pleased to announce today that the bridge connecting these two will be known as the Randy Pausch
+Memorial Footbridge. [shows slide of mockup of bridge] [applause] Now actually based on your talk
+today we’re thinking now about putting up a brick wall up at either end, and let students see what
+they can do with it. [laughter] Randy, there’ll be a generation of students and faculty to come here
+who will not know you, but they will cross that bridge, they will see your name, and they’ll ask those
+of us who did know you. And we will tell them that unfortunately they were not able to experience
+the man, but they are surely experiencing the impact of the man. Randy, thank you for all that
+you’ve done for Carnegie Mellon. We’re going to miss you. [applause] [Randy walks on stage and
+gives Jerry a hug]
+Randy Bryant:
+So every good show needs a closing act, and so to do that I’ll invite Andy Van Dam. [applause]
+Andy Van Dam:
+Oh how I love having the last word. [applause] But to have to go on after that fabulous show, I don’t
+know whether that was good planning. Well I started in Brown in 1965 and it has been my pleasure
+and great joy not just to teach thousands of undergraduates and some graduates, but also to work
+one-on-one with a couple hundred of them. And over 35 have followed me into teaching I’m proud
+to say. Out of those best and brightest it was very clear that Randy would stand out. He showed
+great promise early on and a passion about our field and about helping others that you’ve seen
+amply demonstrated today. It was matched by fierce determination and by persistence in the face
+of all brick wall odds. And you’ve heard a lot about that and seen that demonstrated as he fights
+this terrible disease. Like the elephant’s child, however, he was filled with satiable curiosity, you
+remember that. And what happened to the elephant’s child, he got spanked by all of his relations,
+and you’ve heard some of that. He was brash, he had an irrepressible, raucous sense of humor,
+which led to the fantastic showmanship that you saw today. He was self-assured, occasionally to
+the point of outright cockiness. And stubborn as a mule. And I’m a Dutchman and I know from
+stubbornness. The kind way to say it is he had an exceedingly strong inner compass, and you’ve
+seen that demonstrated over and over again. Now, having been accused of many such traits myself,
+I rather thought of them as features, not bugs. [laughter] Having had to learn English the hard way, I
+was a fanatic about getting students to speak and write correct English from the get-go. And Randy
+the mouth had no problem with that. But he did have one problem. And I’m having a problem with
+my machine here, here we go. [gets slide to project on screen]. And that was another part of my
+fanaticism which dealt with having American students learn about foreign cultures. And specifically
+about food cultures, and more specifically yet, about Chinese food culture. So I would take my
+students to this wonderful Chinese restaurant where they cooked off the menu using a Chinese
+menu. And I tried to get Randy to sample this. But would Mr. White Bread touch that stuff?
+[laughter] Absolutely not. And worse, he refused to learn to eat with chopsticks. I was chairman at
+the time and I said, Randy, you know, I’m not going to let you graduate if you don’t learn to eat with
+chopsticks! [laughter] It’s a requirement, didn’t you see that? He of course didn’t believe that. And 
+P a u s c h P a g e | 26
+so it came time for graduation and I handed him his diploma. And this was the picture one of my
+friends took. [Shows slide of Brown University commencement, 1982, Randy dressed in his cap and
+gown, opening his diploma, his mouth wide open in surprise] And what you see is Randy opening his
+diploma to show it to his parents, and there was an autographed copy of the menu in Chinese and
+no diploma. [laughter, applause] It was one of the few times I got the better of him, I have to
+confess. Well here we are today, all of us, and hundreds and hundreds of people all over the
+country, I dare say all over the world, participating in this great event to celebrate you and your life.
+Randy is the person, the Mensch, as we say in Yiddish. Your manifold accomplishments as a model
+academic, especially as a mentor to your students. Your Disneyland expeditions not only were
+unique but they are legendary. You have more than fulfilled the terms of Brown University Charter,
+which are: to discharge the offices of life with usefulness and reputation. Your utter devotion to
+your family and your career are exemplary, and continue unabated as you cope with the immensity
+of your situation. You exemplify undaunted courage and grace under pressure. The most terrible
+pressure one can imagine. Randy, you have been and you will continue to be a role model for us.
+[Voice starts cracking up] Thank you so much for all you have done for us. And to allow us to tell
+you privately and in such a public way how much we admire, honor, and indeed love you. [applause]
+[standing ovation] 

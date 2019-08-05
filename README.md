@@ -8,9 +8,15 @@ This repo aims at providing reusable Keras Models, which could easily integrated
 pip install keras-models
 ```
 
+If you will using the NLP models, you need run one more command:
+```shell
+python -m spacy download xx_ent_wiki_sm
+```
+
 ## Usage Guide
 
 to be done
+
 
 ## API
 
