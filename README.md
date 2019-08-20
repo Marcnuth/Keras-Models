@@ -1,5 +1,7 @@
 # Keras Models Hub
 
+![PyPI - Downloads](https://img.shields.io/pypi/dm/keras-models?label=PyPI)
+
 This repo aims at providing reusable Keras Models, which could easily integrated into your projects.
 
 ## Install
