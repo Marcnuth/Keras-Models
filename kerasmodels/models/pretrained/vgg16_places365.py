@@ -31,7 +31,7 @@ from keras.utils import layer_utils
 from keras.preprocessing import image
 from keras.applications.imagenet_utils import preprocess_input
 
-WEIGHTS_PATH = 'https://github.com/GKalliatakis/Keras-VGG16-places365/releases/download/v1.0/vgg16-places365_weights_tf_dim_ordering_tf_kernels.h5'
+WEIGHTS_PATH = 'https://github.com/Marcnuth/Keras-Models/releases/download/v0.0.5/vgg16-places365_weights_tf_dim_ordering_tf_kernels.h5'
 CLASS_LABELS = [
     'airfield', 'airplane_cabin', 'airport_terminal', 'alcove', 'alley', 'amphitheater', 'amusement_arcade', 'amusement_park', 'apartment_building/outdoor', 
     'aquarium', 'aqueduct', 'arcade', 'arch', 'archaelogical_excavation', 'archive', 'arena/hockey', 'arena/performance', 'arena/rodeo', 'army_base', 
