@@ -13,6 +13,7 @@ import warnings
 import numpy as np
 from PIL import Image
 from cv2 import resize
+from pathlib import Path
 
 from keras import backend as K
 from keras.layers import Input
@@ -72,7 +73,7 @@ CLASS_LABELS = [
     'windmill', 'yard', 'youth_hostel', 'zen_garden']
 
 
-def VGG16_Places365():
+def VGG16_Places365(model_file=None):
     """Instantiates the VGG16-places365 architecture.
 
     Optionally loads weights pre-trained on Places. Note that when using TensorFlow,
@@ -83,8 +84,7 @@ def VGG16_Places365():
 
     # Returns
         A Keras model instance.
-
-        """
+    """
 
     # Determine proper input shape
     input_shape = _obtain_input_shape(None, default_size=224,  min_size=48, data_format=K.image_data_format(), require_flatten=True)
@@ -132,8 +132,11 @@ def VGG16_Places365():
     model = Model(img_input, x, name='vgg16-places365')
 
     # load weights
-    weights_path = get_file('vgg16-places365_weights_tf_dim_ordering_tf_kernels.h5', WEIGHTS_PATH, cache_subdir='models')
-    model.load_weights(weights_path)
+    if model_file:
+        model.load_weights(Path(model_file).absolute().as_posix())
+    else:
+        weights_path = get_file('vgg16-places365_weights_tf_dim_ordering_tf_kernels.h5', WEIGHTS_PATH, cache_subdir='models')
+        model.load_weights(weights_path)
 
     if K.backend() == 'theano':
         layer_utils.convert_all_kernels_in_model(model)
@@ -153,15 +156,19 @@ def VGG16_Places365():
     return model
 
 
-def predict(image_file, n_top=5):
-    image = Image.open(image_file)
-    image = np.array(image, dtype=np.uint8)
-    image = resize(image, (224, 224))
-    image = np.expand_dims(image, 0)
+def predict(image_files, n_top=5, model=None):
 
-    model = VGG16_Places365()
-    preds = model.predict(image)[0]
-    top_preds = np.argsort(preds)[::-1][0:n_top]
-    return [CLASS_LABELS[v] for v in top_preds]
+    model = model or VGG16_Places365()
+    assert isinstance(image_files, list), 'image_files should be a list'
+    assert len(image_files) > 0, 'image_files should not be empty'
+
+    file2img = lambda f: np.expand_dims(resize(np.array(Image.open(f), dtype=np.uint8), (224, 224)), 0)
+    images = [file2img(Path(f).absolute().as_posix()) for f in image_files]
+
+    predict_scores = lambda img: np.argsort(model.predict(img)[0])[::-1][0:n_top]
+    predict_labels = lambda img: [CLASS_LABELS[v] for v in predict_scores(img)]
+
+    return [predict_labels(img) for img in images]
+
 
 
