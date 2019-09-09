@@ -26,8 +26,6 @@ import kearas_models
 
 ### Examples
 
-#### Reusable Models
-
 __LinearModel__
 
 __DNN__
@@ -55,9 +53,7 @@ __SkipGram__
 
 __WideDeep__
 
-#### Pre-trained Models
-
-__VGG16_Places365__
+__VGG16_Places365 [pre-trained]__
 > This model is forked from [GKalliatakis/Keras-VGG16-places365](https://github.com/GKalliatakis/Keras-VGG16-places365) and [CSAILVision/places365](https://github.com/CSAILVision/places365)
 
 ```python
