@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''VGG16-places365 model for Keras
-This codes is forked from: https://github.com/GKalliatakis/Keras-VGG16-places365/blob/master/vgg16_places_365.py
+This code is forked from: https://github.com/GKalliatakis/Keras-VGG16-places365/blob/master/vgg16_places_365.py
 To be re-wrote in Keras way in future.
 
 # Reference:
