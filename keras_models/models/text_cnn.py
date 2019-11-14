@@ -1,4 +1,4 @@
-from keras.layers import Input, Embedding, Concatenate, Reshape, Dropout, Dense, MaxPool2D, Conv2D
+from keras.layers import Input, Embedding, Concatenate, Reshape, Dropout, Dense, MaxPool2D, Conv2D, Flatten
 from keras.models import Model
 from keras.initializers import TruncatedNormal, constant
 from keras.backend import expand_dims
@@ -15,16 +15,16 @@ def build(input_shape, n_classes, filter_sizes, **kwargs):
 
     n_text_len, n_embedding_len = input_shape
 
-    x = Input(shape=input_shape, name='input_x')
-    expand_x = expand_dims(x, axis=-1)
+    x = Input(shape=input_shape, name='input')
+    embedded_x = Reshape((n_text_len, n_embedding_len, 1))(x)
 
     pooled_outputs = []
     for i, filter_size in enumerate(filter_sizes):
         conv = Conv2D(
             filters=n_filters, kernel_size=[filter_size, n_embedding_len], strides=1, padding='valid', activation='relu',
-            kernel_initializer=TruncatedNormal(mean=0.0, stddev=0.1), bias_initializer=constant(value=0.1), name=('conv_%d' % filter_size)
-        )(expand_x)
-        pool = MaxPool2D(pool_size=[n_text_len - filter_size + 1, 1], strides=(1, 1), padding='valid', name=('pool_%d' % filter_size))(conv)
+            kernel_initializer=TruncatedNormal(mean=0.0, stddev=0.1), bias_initializer=constant(value=0.1), name=('conv_%d' % i)
+        )(embedded_x)
+        pool = MaxPool2D(pool_size=[n_text_len - filter_size + 1, 1], strides=(1, 1), padding='valid', name=('pool_%d' % i))(conv)
         pooled_outputs.append(pool)
 
     # combine all the pooled features
