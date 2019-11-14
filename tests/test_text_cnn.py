@@ -2,20 +2,49 @@ from keras_models.models import TextCNN
 from keras.optimizers import Adadelta, SGD
 from keras.losses import mean_squared_error
 import numpy as np
+from keras_models.generators.allonce import AllOnceFromDirGenerator
+from pathlib import Path
+import tensorflow as tf
+from keras.backend.tensorflow_backend import set_session
+import time
+from keras.callbacks import TensorBoard, EarlyStopping
 
 
-def test_main():
-    X = np.random.normal(0, 1.0, size=500 * 5 * 300).reshape(500, 5, 300)
-    w1 = np.random.normal(0, 1.0, size=100)
-    w2 = np.random.normal(0, 1.0, size=3)
-    Y = np.dot(np.dot(np.dot(X, w2), w1), w1) + np.random.randint(1)
+def test_train():
 
-    print(X.shape, Y.shape)
+    config = tf.ConfigProto()
+    config.gpu_options.allow_growth = True
 
-    model = TextCNN(input_shape=X.shape[1:], filters=[32, 64], kernel_size=(2, 2), pool_size=(3, 3), padding='same', r_dropout=0.25, num_classes=1)
-    model.compile(optimizer='adam', loss=mean_squared_error, metrics=['mae', 'mse'])
+    sess = tf.Session(config=config)
+    set_session(sess)
+
+    timestamp = str(int(time.time()))
+    tb_dir = Path('~/xx/tensorboard/')
+
+    callbacks = [
+        TensorBoard(log_dir=tb_dir.absolute().as_posix(), histogram_freq=0, write_graph=True, write_images=True),
+        # EarlyStopping(monitor='categorical_accuracy', min_delta=1e-5, patience=5, verbose=2, mode='auto')
+    ]
+
+    datagen = AllOnceFromDirGenerator(
+        datadir=Path('/home/ubuntu/xx/aiflow/tests/resources/titles/seniority_data/'),
+        batch_size=64, shuffle=True, random_seed=1, limit=100000
+    )
+    datagen.summary()
+
+    model = TextCNN(input_shape=(5, 300), n_classes=4, filter_sizes=(3, 4, 5))
+    model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['categorical_accuracy'])
     model.summary()
 
-    model.fit(X, Y, batch_size=16, epochs=100, validation_split=0.1)
+    model.fit_generator(
+        datagen,
+        steps_per_epoch=datagen.steps_each_epoch,
+        epochs=200,
+        verbose=2,
+        workers=10,
+        max_queue_size=32,
+        callbacks=callbacks
+    )
 
-    print(X.shape, Y.shape)
+    print('finish training, save the model')
+    model.save((Path(__file__).parent / 'output' / 'textcnn_seniroty.h5').absolute().as_posix())
