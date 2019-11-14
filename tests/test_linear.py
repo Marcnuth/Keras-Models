@@ -1,4 +1,4 @@
-from kerasmodels.models import LinearModel
+from keras_models.models import LinearModel
 from keras.optimizers import Adadelta, SGD
 from keras.losses import mean_squared_error
 import numpy as np
